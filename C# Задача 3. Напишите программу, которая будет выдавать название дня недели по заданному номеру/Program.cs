@@ -47,4 +47,3 @@ else if (number == 5) Console.WriteLine("Friday");
 else if (number == 6) Console.WriteLine("Saturday"); 
 else if (number == 7) Console.WriteLine("Sunday"); 
 else Console.WriteLine ("Error, incorrect value");
-
